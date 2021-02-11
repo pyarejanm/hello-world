@@ -1,1 +1,2 @@
 This is file1.txt added by ghouse
+This is the new line that has been added
